@@ -1,0 +1,17 @@
+.questions {
+    display: flex;
+    flex-wrap: ;
+}
+
+.question-box {
+    display: flex;
+    margin: 1rem;
+    flex-direction: column;
+}
+.question-box p {
+    padding: 0.5rem;
+}
+
+.question-box h1 {
+    text-align: left;
+}
